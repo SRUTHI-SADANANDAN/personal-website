@@ -1,0 +1,19 @@
+.para2{
+    color: #999999;
+    text-align: center;
+}
+.cardtitle{
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.4;
+    margin-top: 20px;
+}
+.cards{
+    cursor: pointer;
+}
+.cards:hover{
+    background: linear-gradient(to left, #fc5130, #e2090d);
+    transform: translateY(-10px);
+
+}

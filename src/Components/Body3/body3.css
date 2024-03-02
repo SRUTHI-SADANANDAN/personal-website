@@ -1,0 +1,32 @@
+.skills{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.para3{
+    color: #999999;
+    text-align: center;
+    
+}
+.barcontainer {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+     height: 300px;
+
+}
+
+.progressbar {
+    display: flex;
+    gap: 60px;
+    width: 800px;
+    height: 300px;
+    /* padding-top: 0px; */
+    /* margin-top: 10px; */
+    
+}
+
+.progressbar-item {
+   
+    /* Add more custom styles here */
+}

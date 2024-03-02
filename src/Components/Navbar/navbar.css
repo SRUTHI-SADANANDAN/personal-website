@@ -1,0 +1,38 @@
+.nav-items{
+    margin-left: 270px ;
+    font-weight: 700;
+}
+.nav-bar{
+    position: -webkit-sticky;
+    position: sticky;
+    padding: 5px;
+    margin: 0;
+}
+.twitter{
+    color: white;
+    margin-left: -183px;
+    font-size: 20px;
+}
+
+
+.skype{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+
+.vimeo{
+    color: white;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.icons{
+    margin-left: 10px;
+}
+.rocket{
+    color: white;
+}
+.btn{
+    width:150px;
+}

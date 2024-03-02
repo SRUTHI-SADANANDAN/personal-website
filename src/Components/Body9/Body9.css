@@ -1,0 +1,32 @@
+.news{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.para9{
+    color: #999999;
+    text-align: center;
+}
+.input{
+    background-color: #191919;
+    border-color: #999999;
+    color: #ffffff;
+    box-shadow: none;
+    outline: none;
+    width: 400px;
+    height: 50px;
+}
+.sub-button{
+    height: 50px;
+    width:150px;
+    background-color: #e2090d !important;
+}
+@media screen and (max-width:600px) {
+    .input{
+       
+    }
+    .sub-button{
+       margin-left: 230px;
+        
+    }
+}

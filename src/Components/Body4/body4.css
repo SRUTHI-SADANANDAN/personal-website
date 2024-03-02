@@ -1,0 +1,21 @@
+.team{
+    text-align: center;
+    color: white;
+}
+.para4{
+    color: #999999;
+    text-align: center;
+}
+.icon{
+    color: #e2090d;
+    font-size: x-large;
+    margin-left: 10px;
+}
+.card-align{
+    margin-left: 100px;
+}
+@media screen and (max-width:600px) {
+    .card-align{
+        margin-left: 5px;
+    }
+}

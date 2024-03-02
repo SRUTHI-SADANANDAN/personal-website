@@ -1,0 +1,24 @@
+.websolution{
+    color: #e2090d;
+    font-weight: 900;
+    font-family: 'Jost', sans-serif;
+    font-size: 5.5rem;
+    line-height: 1.2;
+    margin-top: 200px;
+}
+.para{
+    color: white;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+.startedbutton{
+    margin-top: 50px;
+    width: 150px;
+}
+@media screen and (max-width:600px){
+    .para{
+        font-size: 16px;
+    }
+    
+}

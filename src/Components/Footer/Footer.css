@@ -1,0 +1,60 @@
+.solutions{
+    background: linear-gradient(to left, #fc5130, currentColor);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #e2090d;
+    font-family: 'Jost', sans-serif;
+    font-size: 2.8rem;
+    line-height: 1.4;
+    padding-top: 50px;
+}
+.ftpara{
+    color: #999999;
+    text-align: left;
+}
+.home{
+    color: #999999;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    width: 100%;
+    text-align: center;
+
+}
+.contact-btn{
+    font-family: 'Moririse2' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    height: 50px;
+    width:150px;
+    background-color: #e2090d !important;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.icon{
+    color: #e2090d;
+    font-size: x-large;
+}
+
+@media (max-width: 767px) {
+    .col-md-3 {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .contact-btn {
+      margin-top: 20px; /* Adjust this value as needed */
+      text-align: center;
+      height: 60px;
+    width:180px;
+    font-size: larger;
+    margin-left: 10px;
+    }
+  }
+  

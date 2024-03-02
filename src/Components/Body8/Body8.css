@@ -1,0 +1,16 @@
+.testimonials{
+    color: white;
+    text-align: center;
+}
+.profile{
+    
+        width: 200px;
+        height: 200px;
+        border-radius: 50%; 
+        object-Fit: cover;
+        margin: auto;
+        margin-top: 20px;
+}
+.star{
+    color:#f44336 ;
+}
